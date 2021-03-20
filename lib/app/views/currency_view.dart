@@ -1,6 +1,6 @@
 import 'package:conversor_moedas/app/components/currency_box.dart';
 import 'package:conversor_moedas/app/controllers/currency_controller.dart';
-import 'package:conversor_moedas/app/statics/MediaFiles.dart';
+import 'package:conversor_moedas/app/statics/media_files.dart';
 import 'package:flutter/material.dart';
 
 class CurrencyView extends StatefulWidget {
